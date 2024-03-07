@@ -1,0 +1,11 @@
+DATE,TIME,VENUE,ARENA,TEAM,TM,TM_PTS,OPP_PTS,OPPONENT,OPP,OVERTIME,RESULT,GAMETIME(minutes),REB,AST,STL,BLK,TOV,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,PF
+2024-03-01,19:30,Home,Scotiabank Arena,Toronto Raptors,TOR,112,108,Philadelphia 76ers,PHI,No,Win,135,45,23,8,4,12,40,85,47.1,12,30,40.0,20,22,90.9,18
+2024-02-28,20:00,Away,Wells Fargo Center,Toronto Raptors,TOR,105,118,Philadelphia 76ers,PHI,No,Loss,130,38,21,6,3,14,37,82,45.1,11,29,37.9,20,24,83.3,20
+2024-02-26,19:30,Home,Scotiabank Arena,Toronto Raptors,TOR,120,115,Boston Celtics,BOS,Yes,Win,145,42,28,9,5,10,44,88,50.0,15,35,42.9,17,20,85.0,22
+2024-02-24,19:00,Away,TD Garden,Toronto Raptors,TOR,110,108,Boston Celtics,BOS,No,Win,125,39,24,7,4,13,41,87,47.1,14,31,45.2,14,17,82.4,18
+2024-02-22,19:30,Home,Scotiabank Arena,Toronto Raptors,TOR,118,112,Chicago Bulls,CHI,Yes,Win,140,41,26,10,3,11,43,91,47.3,13,30,43.3,19,22,86.4,21
+2024-02-20,19:00,Away,United Center,Toronto Raptors,TOR,105,100,Chicago Bulls,CHI,No,Win,130,37,22,8,4,15,37,84,44.0,10,27,37.0,21,24,87.5,20
+2024-02-18,19:30,Home,Scotiabank Arena,Toronto Raptors,TOR,115,110,New York Knicks,NYK,Yes,Win,135,40,27,9,6,14,42,89,47.2,14,34,41.2,17,20,85.0,19
+2024-02-16,19:00,Away,Madison Square Garden,Toronto Raptors,TOR,112,107,New York Knicks,NYK,No,Win,140,38,25,7,5,12,41,87,47.1,13,30,43.3,17,20,85.0,22
+2024-02-14,19:30,Home,Scotiabank Arena,Toronto Raptors,TOR,120,115,Orlando Magic,ORL,Yes,Win,145,43,24,8,4,11,44,87,50.6,15,33,45.5,17,20,85.0,20
+2024-02-12,19:00,Away,Amway Center,Toronto Raptors,TOR,108,102,Orlando Magic,ORL,No,Win,135,41,23,9,5,13,39,85,45.9,12,30,40.0,18,21,85.7,19
